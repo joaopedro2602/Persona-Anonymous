@@ -1,0 +1,215 @@
+{
+  "Persona 3": [
+    {
+      "nome": "Makoto Yuki",
+      "persona": [
+        "Orpheus",
+        "Messiah"
+      ],
+      "confidente": "The Fool"
+    },
+    {
+      "nome": "Yukari Takeba",
+      "persona": [
+        "Io",
+        "Isis"
+      ],
+      "confidente": "The Lovers"
+    },
+    {
+      "nome": "Junpei Iori",
+      "persona": [
+        "Hermes",
+        "Trismegistus"
+      ],
+      "confidente": "The Magician"
+    },
+    {
+      "nome": "Akihiko Sanada",
+      "persona": [
+        "Polydeuces",
+        "Caesar"
+      ],
+      "confidente": "The Star"
+    },
+    {
+      "nome": "Mitsuru Kirijo",
+      "persona": [
+        "Penthesilea",
+        "Artemisia"
+      ],
+      "confidente": "The Empress"
+    },
+    {
+      "nome": "Fuuka Yamagishi",
+      "persona": [
+        "Lucia",
+        "Juno"
+      ],
+      "confidente": "The Priestess"
+    },
+    {
+      "nome": "Aigis",
+      "persona": [
+        "Palladion",
+        "Athena"
+      ],
+      "confidente": "The Aeon"
+    },
+    {
+      "nome": "Shinjiro Aragaki",
+      "persona": [
+        "Castor"
+      ],
+      "confidente": "The Moon"
+    },
+    {
+      "nome": "Ken Amada",
+      "persona": [
+        "Nemesis",
+        "Kala-Nemi"
+      ],
+      "confidente": "The Justice"
+    }
+  ],
+  "Persona 4": [
+    {
+      "nome": "Yu Narukami",
+      "persona": [
+        "Izanagi",
+        "Izanagi-no-Okami"
+      ],
+      "confidente": "The Fool"
+    },
+    {
+      "nome": "Yosuke Hanamura",
+      "persona": [
+        "Jiraiya",
+        "Susano-o"
+      ],
+      "confidente": "The Magician"
+    },
+    {
+      "nome": "Chie Satonaka",
+      "persona": [
+        "Tomoe",
+        "Suzuka Gongen"
+      ],
+      "confidente": "The Chariot"
+    },
+    {
+      "nome": "Yukiko Amagi",
+      "persona": [
+        "Konohana Sakuya",
+        "Amaterasu"
+      ],
+      "confidente": "The Priestess"
+    },
+    {
+      "nome": "Kanji Tatsumi",
+      "persona": [
+        "Take-Mikazuchi",
+        "Rokuten Maou"
+      ],
+      "confidente": "The Emperor"
+    },
+    {
+      "nome": "Rise Kujikawa",
+      "persona": [
+        "Himiko",
+        "Kanzeon"
+      ],
+      "confidente": "The Lovers"
+    },
+    {
+      "nome": "Naoto Shirogane",
+      "persona": [
+        "Sukuna-Hikona",
+        "Yamato-Takeru"
+      ],
+      "confidente": "The Fortune"
+    },
+    {
+      "nome": "Teddie",
+      "persona": [
+        "Kintoki-Douji",
+        "Kamui"
+      ],
+      "confidente": "The Star"
+    }
+  ],
+  "Persona 5": [
+    {
+      "nome": "Ren Amamiya",
+      "persona": [
+        "Arsène",
+        "Satanael"
+      ],
+      "confidente": "The Fool"
+    },
+    {
+      "nome": "Ryuji Sakamoto",
+      "persona": [
+        "Captain Kidd",
+        "Seiten Taisei"
+      ],
+      "confidente": "The Chariot"
+    },
+    {
+      "nome": "Ann Takamaki",
+      "persona": [
+        "Carmen",
+        "Hecate"
+      ],
+      "confidente": "The Lovers"
+    },
+    {
+      "nome": "Morgana",
+      "persona": [
+        "Zorro",
+        "Mercurius"
+      ],
+      "confidente": "The Magician"
+    },
+    {
+      "nome": "Yusuke Kitagawa",
+      "persona": [
+        "Goemon",
+        "Kamu Susano-o"
+      ],
+      "confidente": "The Emperor"
+    },
+    {
+      "nome": "Makoto Niijima",
+      "persona": [
+        "Johanna",
+        "Anat"
+      ],
+      "confidente": "The Priestess"
+    },
+    {
+      "nome": "Futaba Sakura",
+      "persona": [
+        "Necronomicon",
+        "Prometheus"
+      ],
+      "confidente": "The Hermit"
+    },
+    {
+      "nome": "Haru Okumura",
+      "persona": [
+        "Milady",
+        "Astarte"
+      ],
+      "confidente": "The Empress"
+    },
+    {
+      "nome": "Goro Akechi",
+      "persona": [
+        "Robin Hood",
+        "Loki"
+      ],
+      "confidente": "The Justice"
+    }
+  ]
+}
