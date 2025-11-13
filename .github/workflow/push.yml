@@ -2,7 +2,7 @@ name: Auto Version Bump
 
 on:
   push:
-    branches: [v2]  # altere se usar outra branch
+    branches: [main]  # altere se usar outra branch
 
 jobs:
   bump:
