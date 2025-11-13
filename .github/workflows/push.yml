@@ -30,7 +30,7 @@ jobs:
           git config --global user.email "joao.cabral260206@gmail.com"
           git config --global user.name "joaopedro2602"
           git add *
-          git commit -m "Bump version to ${{ steps.bump.outputs.version }}" || echo "Nada para commitar"
+          git commit -m "Bump version to ${{ steps.bump.outputs.version }}" || echo "Nada para commitar por hoje"
           git push
 
       - name: Criar tag
