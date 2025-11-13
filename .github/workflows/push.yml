@@ -35,5 +35,5 @@ jobs:
 
       - name: Criar tag
         run: |
-          git tag v${{ steps.bump.outputs.version }}
-          git push origin v${{ steps.bump.outputs.version }}
+          git tag v2
+          git push origin v2
