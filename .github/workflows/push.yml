@@ -29,7 +29,7 @@ jobs:
         run: |
           git config --global user.email "joao.cabral260206@gmail.com"
           git config --global user.name "joaopedro2602"
-          git add pyproject.toml
+          git add *
           git commit -m "Bump version to ${{ steps.bump.outputs.version }}" || echo "Nada para commitar"
           git push
 
