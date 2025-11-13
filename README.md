@@ -74,4 +74,11 @@ Cada grupo lista os personagens principais do respectivo universo, com três atr
 
 <hr>
 
+<h2>👤 Autores</h2>
+<p>
+Edward Mevis da Silva <br>
+João Pedro Silva Cabral <br>
+Maria Eduarda Silva Werlang
+
+</p>
 
