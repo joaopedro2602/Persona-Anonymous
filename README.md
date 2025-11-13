@@ -1,5 +1,8 @@
 # Persona-Anonymous
-
+Integrantes:
+Edward Mevis da Silva
+João Pedro Silva Cabral
+Maria Eduarda Silva Werlang
 <h2>📘 Contexto</h2>
 <p>
 O conjunto de dados utilizado nesta aplicação é uma base <strong>fictícia</strong> inspirada na série de jogos <em>Persona</em>, empregada aqui apenas como
