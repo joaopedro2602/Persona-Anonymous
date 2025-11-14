@@ -1,5 +1,6 @@
 # app/app.py
 from flask import Flask, request, jsonify
+from utils.search_engine import search_characters
 from app.anonymizer_app import run_anonymization
 from app.utils.gemini_client import enrich_with_gemini
 import os
@@ -43,6 +44,22 @@ def home():
         "message": "Persona Anonymizer API está rodando 🚀",
         "endpoints": ["/anonimize (POST)"]
     })
+
+@app.route("/search", methods=["GET"])
+def search_route():
+    """
+    Pesquisa personagens.
+    Exemplo:
+        /search?q=makoto
+    Retorna APENAS a contagem.
+    """
+    query = request.args.get("q")
+
+    if not query:
+        return jsonify({"error": "Parâmetro 'q' é obrigatório"}), 400
+
+    result = search_characters(query)
+    return jsonify(result)
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5000))
